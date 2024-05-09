@@ -1,5 +1,5 @@
 ---
-title: "Liefern Jugendliche valide Informationen zum Bildungsstand ihrer Eltern in standardisierten Erhebungen? Befunde zu Schülerinnen und Schülern der 9. Jahrgangsstufe in Deutschland"
+title: "Liefern Jugendliche valide Informationen zum Bildungsstand ihrer Eltern in standardisierten Erhebungen?"
 collection: publications
 permalink: /publication/2021-paper-ba
 excerpt: 'In this paper, which is derived from my bachelor thesis, Thorsten Schneider and I investigate whether the reports of adolescents about their parents' education match with their parents' reports. Using NEPS data from Germany, we find that students misreport their parents' educational degrees and that these misreports are more likely for low-SES students. We furthermore find that using the reports given by students may lead to an underestimation of educational inequalities as compared to estimations using parental reports.'
