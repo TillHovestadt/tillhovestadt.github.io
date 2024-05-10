@@ -210,7 +210,7 @@ collections:
     permalink: /:collection/:path/
   sna2024:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/teaching/:path/
   publications:
     output: true
     permalink: /:collection/:path/
