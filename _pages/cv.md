@@ -30,7 +30,7 @@ Work experience
   * Leipzig University
   * Supervisor: [Dr. Georg Lorenz](https://www.uni-leipzig.de/en/profile/mitarbeiter/dr-georg-lorenz)
 
-* 2015--2022: Research Assistant
+* 2017--2022: Research Assistant
   * Leipzig University
   * Supervisors: Prof. Dr. Thorsten Schneider, Prof. Dr. Roger Berger, Prof. Dr. em. Kurt Mühler, Dr. Melanie Olczyk
 
