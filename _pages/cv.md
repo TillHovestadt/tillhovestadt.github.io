@@ -19,7 +19,7 @@ Download my full CV here:
 
 Education
 ======
-* Ph.D in Sociology, University of Oxford, 2027 (expected)
+* Ph.D in Sociology, University of Oxford, 2024--
 * M.A. in Sociology, Leipzig University, 2022
 * B.A. in Sociology, Leipzig University, 2019
 * B.Sc. in Psychology (first year), University of Groningen, 2016
@@ -51,7 +51,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

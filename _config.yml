@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Till Hovestadt"
 title_separator          : "-"
 name                     : &name "Till Hovestadt"
-description              : &description "Research Associate"
+description              : &description ""
 url                      : https://tillhovestadt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "TillHovestadt/tillhovestadt.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Till Hovestadt"
   pronouns         : # example: "she/her"
-  bio              : "Research Associate"
+  bio              : ""
   location         : "Leipzig, Germany"
   employer         : "Leipzig University"
   uri              : # URL
@@ -89,7 +89,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
