@@ -160,6 +160,7 @@ exclude:
   - LICENSE
   - README
   - Rakefile
+  - assets`
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
@@ -285,7 +286,6 @@ permalink: /:categories/:title/
 # paginate_path: /page:num/
 timezone: Europe/Berlin  # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-
 # Plugins
 plugins:
   - jekyll-paginate
@@ -293,6 +293,12 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-remote-theme
+
+# change color theme to dark
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
