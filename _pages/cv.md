@@ -13,13 +13,13 @@ Download
 ======
 
 Download my full CV here:                    
-<p><a href = "https://github.com/TillHovestadt/CV/raw/main/CV_Hovestadt_DE.pdf">German CV (Last changed: May 2024)</a></p>
-<p><a href = "https://github.com/TillHovestadt/CV/raw/main/CV_Hovestadt_EN.pdf">English CV (Last changed: May 2024)</a></p>
+<p><a href = "https://github.com/TillHovestadt/CV/raw/main/CV_Hovestadt_DE.pdf">German CV (Last changed: September 2024)</a></p>
+<p><a href = "https://github.com/TillHovestadt/CV/raw/main/CV_Hovestadt_EN.pdf">English CV (Last changed: September 2024)</a></p>
 
 
 Education
 ======
-* Ph.D in Sociology, University of Oxford, 2024--
+* DPhil in Sociology, University of Oxford, 2024--
 * M.A. in Sociology, Leipzig University, 2022
 * B.A. in Sociology, Leipzig University, 2019
 * B.Sc. in Psychology (first year), University of Groningen, 2016
