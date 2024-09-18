@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"
   bio              : ""
   location         : "Oxford, UK"
-  employer         : "Nuffield College, University of Oxford"
+  employer         : "Nuffield College, \nUniversity of Oxford"
   uri              : # URL
   email            : "till.hovestadt[at]nuffield.ox.ac.uk"
 
