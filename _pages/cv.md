@@ -13,8 +13,7 @@ Download
 ======
 
 Download my full CV here:                    
-<p><a href = "https://github.com/TillHovestadt/CV/raw/main/CV_Hovestadt_DE.pdf">German CV (Last changed: September 2024)</a></p>
-<p><a href = "https://github.com/TillHovestadt/CV/raw/main/CV_Hovestadt_EN.pdf">English CV (Last changed: September 2024)</a></p>
+<p><a href = "https://github.com/TillHovestadt/CV/raw/main/CV_Hovestadt_EN.pdf">English CV (Last changed: May 2025)</a></p>
 
 
 Education
@@ -28,7 +27,7 @@ Work experience
 ======
 * 2022--2024: Research Associate
   * Leipzig University
-  * Supervisor: [Dr. Georg Lorenz](https://www.uni-leipzig.de/en/profile/mitarbeiter/dr-georg-lorenz)
+  * DFG Project SERIOUS, Supervisor: Dr. Georg Lorenz
 
 * 2017--2022: Research Assistant
   * Leipzig University
