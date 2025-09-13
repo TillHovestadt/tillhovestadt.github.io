@@ -1,16 +1,55 @@
-{% include base_path %}
+<!-- Footer -->
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4">
+        <h3> Contact:</h3>
+        <p class="footer-contact">
+          {{ site.company_name }} <br>
+          Email: {{ site.company_email }}<br>
+        </p>
+      </div>
+      <div class="col-md-4">
+        <h3> Links</h3>
+        <p><a href="https://www.nuffield.ox.ac.uk/people/profiles/till-hovestadt/"> Website at Nuffield College</a></p>
+        <!-- <p><a href="/about"> About ( Who we are )</a></p>
+        <p><a href="/about"> Services ( What we do )</a></p>
+        <p><a href="/contact"> Contact ( Feel free to contact )</a></p>
+        <p><a href="/blog"> Blog ( Write to us )</a></p>
+        <p><a href="/team"> Team ( Meet the Team )</a></p>  -->
+      </div>
+      <div class="col-md-4">
+        <h3> Social Networks </h3>
+        <div id="social-icons">
+          {% if site.googleplus_link %}
+            <a href="{{ site.googleplus_link }}" class="btn-group google-plus">
+              <i class="fa fa-google-plus"></i>
+            </a>
+          {% endif %}
 
-{% if site.author.github or site.author.bitbucket or site.atom_feed.hide != true %}
-<div class="page__footer-follow">
-  <ul class="social-icons">
-    {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
-    {% endif %}
-    {% if site.author.github %}
-      <li><a href="http://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
-    {% endif %}
-  </ul>
-</div>
-{% endif %}
+          {% if site.linkedin_link %}
+            <a href="{{ site.linkedin_link }}" class="btn-group linkedin">
+              <i class="fa fa-linkedin-square"></i>
+            </a>
+          {% endif %}
 
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+          {% if site.facebook_link %}
+            <a href="{{ site.twitter_link }}" class="btn-group twitter">
+              <i class="fa fa-twitter"></i>
+            </a>
+          {% endif %}
+
+          {% if site.facebook_link %}
+            <a href="{{ site.facebook_link }}" class="btn-group facebook">
+              <i class="fa fa-facebook"></i>
+            </a>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="copyright text center">
+    <p>&copy; Copyright {{ site.time | date: '%Y' }}, <a href="#">tillhovestadt.github.io</a>. <br>Theme ported by <a href="https://melvinchng.github.io/" target="_blank">Till Hovestadt</a></p>
+  </div>
+</footer>
